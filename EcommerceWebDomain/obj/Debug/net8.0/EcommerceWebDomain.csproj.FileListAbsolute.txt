@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\EcommerceWeb\EcommerceWebDomain\bin\Debug\net8.0\EcommerceWebDomain.deps.json
+C:\Users\hp\source\repos\EcommerceWeb\EcommerceWebDomain\bin\Debug\net8.0\EcommerceWebDomain.dll
+C:\Users\hp\source\repos\EcommerceWeb\EcommerceWebDomain\bin\Debug\net8.0\EcommerceWebDomain.pdb
+C:\Users\hp\source\repos\EcommerceWeb\EcommerceWebDomain\obj\Debug\net8.0\EcommerceWebDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\EcommerceWeb\EcommerceWebDomain\obj\Debug\net8.0\EcommerceWebDomain.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\EcommerceWeb\EcommerceWebDomain\obj\Debug\net8.0\EcommerceWebDomain.AssemblyInfo.cs
+C:\Users\hp\source\repos\EcommerceWeb\EcommerceWebDomain\obj\Debug\net8.0\EcommerceWebDomain.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\EcommerceWeb\EcommerceWebDomain\obj\Debug\net8.0\EcommerceWebDomain.sourcelink.json
+C:\Users\hp\source\repos\EcommerceWeb\EcommerceWebDomain\obj\Debug\net8.0\EcommerceWebDomain.dll
+C:\Users\hp\source\repos\EcommerceWeb\EcommerceWebDomain\obj\Debug\net8.0\refint\EcommerceWebDomain.dll
+C:\Users\hp\source\repos\EcommerceWeb\EcommerceWebDomain\obj\Debug\net8.0\EcommerceWebDomain.pdb
+C:\Users\hp\source\repos\EcommerceWeb\EcommerceWebDomain\obj\Debug\net8.0\ref\EcommerceWebDomain.dll

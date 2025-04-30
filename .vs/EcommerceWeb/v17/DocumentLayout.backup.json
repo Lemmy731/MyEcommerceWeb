@@ -1,7 +1,76 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E134C796-EDF6-496E-975A-4C5966CF92F8}|EcommerceWeb\\EcommerceWeb.csproj|c:\\users\\hp\\source\\repos\\ecommerceweb\\ecommerceweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E134C796-EDF6-496E-975A-4C5966CF92F8}|EcommerceWeb\\EcommerceWeb.csproj|solutionrelative:ecommerceweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BFE3F34-F18C-4899-86E1-402F80C090A7}|EcommerceWebDomain\\EcommerceWebDomain.csproj|c:\\users\\hp\\source\\repos\\ecommerceweb\\ecommercewebdomain\\responsepayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BFE3F34-F18C-4899-86E1-402F80C090A7}|EcommerceWebDomain\\EcommerceWebDomain.csproj|solutionrelative:ecommercewebdomain\\responsepayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BFE3F34-F18C-4899-86E1-402F80C090A7}|EcommerceWebDomain\\EcommerceWebDomain.csproj|c:\\users\\hp\\source\\repos\\ecommerceweb\\ecommercewebdomain\\entity\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BFE3F34-F18C-4899-86E1-402F80C090A7}|EcommerceWebDomain\\EcommerceWebDomain.csproj|solutionrelative:ecommercewebdomain\\entity\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E134C796-EDF6-496E-975A-4C5966CF92F8}|EcommerceWeb\\EcommerceWeb.csproj|c:\\users\\hp\\source\\repos\\ecommerceweb\\ecommerceweb\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E134C796-EDF6-496E-975A-4C5966CF92F8}|EcommerceWeb\\EcommerceWeb.csproj|solutionrelative:ecommerceweb\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734D1B82-702B-4EB6-9DF8-564E82A659E5}|EcommerceWebApplication\\EcommerceWebApplication.csproj|c:\\users\\hp\\source\\repos\\ecommerceweb\\ecommercewebapplication\\service\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734D1B82-702B-4EB6-9DF8-564E82A659E5}|EcommerceWebApplication\\EcommerceWebApplication.csproj|solutionrelative:ecommercewebapplication\\service\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7668F1E2-FCBA-4030-82B6-E4281056AD43}|EcommerceWebInfrastructure\\EcommerceWebInfrastructure.csproj|c:\\users\\hp\\source\\repos\\ecommerceweb\\ecommercewebinfrastructure\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7668F1E2-FCBA-4030-82B6-E4281056AD43}|EcommerceWebInfrastructure\\EcommerceWebInfrastructure.csproj|solutionrelative:ecommercewebinfrastructure\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734D1B82-702B-4EB6-9DF8-564E82A659E5}|EcommerceWebApplication\\EcommerceWebApplication.csproj|c:\\users\\hp\\source\\repos\\ecommerceweb\\ecommercewebapplication\\iservice\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734D1B82-702B-4EB6-9DF8-564E82A659E5}|EcommerceWebApplication\\EcommerceWebApplication.csproj|solutionrelative:ecommercewebapplication\\iservice\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7668F1E2-FCBA-4030-82B6-E4281056AD43}|EcommerceWebInfrastructure\\EcommerceWebInfrastructure.csproj|c:\\users\\hp\\source\\repos\\ecommerceweb\\ecommercewebinfrastructure\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7668F1E2-FCBA-4030-82B6-E4281056AD43}|EcommerceWebInfrastructure\\EcommerceWebInfrastructure.csproj|solutionrelative:ecommercewebinfrastructure\\irepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7668F1E2-FCBA-4030-82B6-E4281056AD43}|EcommerceWebInfrastructure\\EcommerceWebInfrastructure.csproj|c:\\users\\hp\\source\\repos\\ecommerceweb\\ecommercewebinfrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7668F1E2-FCBA-4030-82B6-E4281056AD43}|EcommerceWebInfrastructure\\EcommerceWebInfrastructure.csproj|solutionrelative:ecommercewebinfrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BFE3F34-F18C-4899-86E1-402F80C090A7}|EcommerceWebDomain\\EcommerceWebDomain.csproj|c:\\users\\hp\\source\\repos\\ecommerceweb\\ecommercewebdomain\\dtos\\productdtocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BFE3F34-F18C-4899-86E1-402F80C090A7}|EcommerceWebDomain\\EcommerceWebDomain.csproj|solutionrelative:ecommercewebdomain\\dtos\\productdtocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BFE3F34-F18C-4899-86E1-402F80C090A7}|EcommerceWebDomain\\EcommerceWebDomain.csproj|c:\\users\\hp\\source\\repos\\ecommerceweb\\ecommercewebdomain\\dtos\\updatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BFE3F34-F18C-4899-86E1-402F80C090A7}|EcommerceWebDomain\\EcommerceWebDomain.csproj|solutionrelative:ecommercewebdomain\\dtos\\updatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E134C796-EDF6-496E-975A-4C5966CF92F8}|EcommerceWeb\\EcommerceWeb.csproj|c:\\users\\hp\\source\\repos\\ecommerceweb\\ecommerceweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E134C796-EDF6-496E-975A-4C5966CF92F8}|EcommerceWeb\\EcommerceWeb.csproj|solutionrelative:ecommerceweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734D1B82-702B-4EB6-9DF8-564E82A659E5}|EcommerceWebApplication\\EcommerceWebApplication.csproj|c:\\users\\hp\\source\\repos\\ecommerceweb\\ecommercewebapplication\\ecommercewebapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{734D1B82-702B-4EB6-9DF8-564E82A659E5}|EcommerceWebApplication\\EcommerceWebApplication.csproj|solutionrelative:ecommercewebapplication\\ecommercewebapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BFE3F34-F18C-4899-86E1-402F80C090A7}|EcommerceWebDomain\\EcommerceWebDomain.csproj|c:\\users\\hp\\source\\repos\\ecommerceweb\\ecommercewebdomain\\ecommercewebdomain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9BFE3F34-F18C-4899-86E1-402F80C090A7}|EcommerceWebDomain\\EcommerceWebDomain.csproj|solutionrelative:ecommercewebdomain\\ecommercewebdomain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWebInfrastructure\\Migrations\\20250429201257_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EcommerceWebInfrastructure\\Migrations\\20250429201257_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E134C796-EDF6-496E-975A-4C5966CF92F8}|EcommerceWeb\\EcommerceWeb.csproj|c:\\users\\hp\\source\\repos\\ecommerceweb\\ecommerceweb\\ecommerceweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E134C796-EDF6-496E-975A-4C5966CF92F8}|EcommerceWeb\\EcommerceWeb.csproj|solutionrelative:ecommerceweb\\ecommerceweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7668F1E2-FCBA-4030-82B6-E4281056AD43}|EcommerceWebInfrastructure\\EcommerceWebInfrastructure.csproj|c:\\users\\hp\\source\\repos\\ecommerceweb\\ecommercewebinfrastructure\\migrations\\20250429203729_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7668F1E2-FCBA-4030-82B6-E4281056AD43}|EcommerceWebInfrastructure\\EcommerceWebInfrastructure.csproj|solutionrelative:ecommercewebinfrastructure\\migrations\\20250429203729_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 244,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,6 +103,223 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWeb\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "EcommerceWeb\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWeb\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "EcommerceWeb\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAmwEkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T09:31:16.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResponsePayment.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWebDomain\\ResponsePayment.cs",
+              "RelativeDocumentMoniker": "EcommerceWebDomain\\ResponsePayment.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWebDomain\\ResponsePayment.cs",
+              "RelativeToolTip": "EcommerceWebDomain\\ResponsePayment.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T23:08:46.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWebApplication\\Service\\PaymentService.cs",
+              "RelativeDocumentMoniker": "EcommerceWebApplication\\Service\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWebApplication\\Service\\PaymentService.cs",
+              "RelativeToolTip": "EcommerceWebApplication\\Service\\PaymentService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:45:48.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductEntity.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWebDomain\\Entity\\ProductEntity.cs",
+              "RelativeDocumentMoniker": "EcommerceWebDomain\\Entity\\ProductEntity.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWebDomain\\Entity\\ProductEntity.cs",
+              "RelativeToolTip": "EcommerceWebDomain\\Entity\\ProductEntity.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T18:26:28.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "EcommerceWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWeb\\appsettings.json",
+              "RelativeToolTip": "EcommerceWeb\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-29T19:16:15.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWebInfrastructure\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceWebInfrastructure\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWebInfrastructure\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "EcommerceWebInfrastructure\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAmwFsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:44:16.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWebInfrastructure\\IRepository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceWebInfrastructure\\IRepository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWebInfrastructure\\IRepository\\IProductRepository.cs",
+              "RelativeToolTip": "EcommerceWebInfrastructure\\IRepository\\IProductRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:44:51.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWebApplication\\IService\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "EcommerceWebApplication\\IService\\IPaymentService.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWebApplication\\IService\\IPaymentService.cs",
+              "RelativeToolTip": "EcommerceWebApplication\\IService\\IPaymentService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:46:33.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWebInfrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EcommerceWebInfrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWebInfrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EcommerceWebInfrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T18:45:14.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Productdtocs.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWebDomain\\Dtos\\Productdtocs.cs",
+              "RelativeDocumentMoniker": "EcommerceWebDomain\\Dtos\\Productdtocs.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWebDomain\\Dtos\\Productdtocs.cs",
+              "RelativeToolTip": "EcommerceWebDomain\\Dtos\\Productdtocs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T23:14:31.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWebDomain\\Dtos\\UpdateDto.cs",
+              "RelativeDocumentMoniker": "EcommerceWebDomain\\Dtos\\UpdateDto.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWebDomain\\Dtos\\UpdateDto.cs",
+              "RelativeToolTip": "EcommerceWebDomain\\Dtos\\UpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T10:24:22.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EcommerceWebApplication",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWebApplication\\EcommerceWebApplication.csproj",
+              "RelativeDocumentMoniker": "EcommerceWebApplication\\EcommerceWebApplication.csproj",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWebApplication\\EcommerceWebApplication.csproj",
+              "RelativeToolTip": "EcommerceWebApplication\\EcommerceWebApplication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-30T09:25:09.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWeb\\Program.cs",
+              "RelativeDocumentMoniker": "EcommerceWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWeb\\Program.cs",
+              "RelativeToolTip": "EcommerceWeb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T19:20:39.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EcommerceWebDomain.csproj",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWebDomain\\EcommerceWebDomain.csproj",
+              "RelativeDocumentMoniker": "EcommerceWebDomain\\EcommerceWebDomain.csproj",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWebDomain\\EcommerceWebDomain.csproj",
+              "RelativeToolTip": "EcommerceWebDomain\\EcommerceWebDomain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-29T18:23:45.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250429203729_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWebInfrastructure\\Migrations\\20250429203729_InitialMigration.cs",
+              "RelativeDocumentMoniker": "EcommerceWebInfrastructure\\Migrations\\20250429203729_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWebInfrastructure\\Migrations\\20250429203729_InitialMigration.cs",
+              "RelativeToolTip": "EcommerceWebInfrastructure\\Migrations\\20250429203729_InitialMigration.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T20:37:29.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250429201257_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWebInfrastructure\\Migrations\\20250429201257_InitialMigration.cs",
+              "RelativeDocumentMoniker": "EcommerceWebInfrastructure\\Migrations\\20250429201257_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWebInfrastructure\\Migrations\\20250429201257_InitialMigration.cs",
+              "RelativeToolTip": "EcommerceWebInfrastructure\\Migrations\\20250429201257_InitialMigration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T20:12:57.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EcommerceWeb.csproj",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWeb\\EcommerceWeb.csproj",
+              "RelativeDocumentMoniker": "EcommerceWeb\\EcommerceWeb.csproj",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWeb\\EcommerceWeb.csproj",
+              "RelativeToolTip": "EcommerceWeb\\EcommerceWeb.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-29T18:51:31.519Z"
             }
           ]
         }

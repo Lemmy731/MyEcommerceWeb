@@ -4,14 +4,79 @@
     "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWeb\\EcommerceWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWeb\\EcommerceWeb.csproj": {
+    "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWebApplication\\EcommerceWebApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWeb\\EcommerceWeb.csproj",
-        "projectName": "EcommerceWeb",
-        "projectPath": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWeb\\EcommerceWeb.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWebApplication\\EcommerceWebApplication.csproj",
+        "projectName": "EcommerceWebApplication",
+        "projectPath": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWebApplication\\EcommerceWebApplication.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWeb\\obj\\",
+        "outputPath": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWebApplication\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWebInfrastructure\\EcommerceWebInfrastructure.csproj": {
+                "projectPath": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWebInfrastructure\\EcommerceWebInfrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWebDomain\\EcommerceWebDomain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWebDomain\\EcommerceWebDomain.csproj",
+        "projectName": "EcommerceWebDomain",
+        "projectPath": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWebDomain\\EcommerceWebDomain.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWebDomain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,7 +110,176 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWebInfrastructure\\EcommerceWebInfrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWebInfrastructure\\EcommerceWebInfrastructure.csproj",
+        "projectName": "EcommerceWebInfrastructure",
+        "projectPath": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWebInfrastructure\\EcommerceWebInfrastructure.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWebInfrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWebDomain\\EcommerceWebDomain.csproj": {
+                "projectPath": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWebDomain\\EcommerceWebDomain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWeb\\EcommerceWeb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWeb\\EcommerceWeb.csproj",
+        "projectName": "EcommerceWeb",
+        "projectPath": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWeb\\EcommerceWeb.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWeb\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWebApplication\\EcommerceWebApplication.csproj": {
+                "projectPath": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWebApplication\\EcommerceWebApplication.csproj"
+              },
+              "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWebInfrastructure\\EcommerceWebInfrastructure.csproj": {
+                "projectPath": "C:\\Users\\hp\\source\\repos\\EcommerceWeb\\EcommerceWebInfrastructure\\EcommerceWebInfrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
